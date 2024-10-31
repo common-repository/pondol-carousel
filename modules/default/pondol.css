@@ -1,0 +1,11 @@
+/*
+ * Pondolplugin-carousel 
+ * skin_1
+ * by codewizard
+ */
+.owl-carousel .item img	{ display:block; margin:0px !important; }
+
+.pondolSkin_1	{ }
+.pondolSkin_1 .owl-controls	{ position:relative; }
+.pondolSkin_1 .owl-controls .owl-prev	{ position:absolute; left:0px; top:0px; margin:0px !important; }
+.pondolSkin_1 .owl-controls .owl-next	{ position:absolute; right:0px; top:0px; margin:0px !important; }
